@@ -15,11 +15,11 @@ Here is my <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-
 
 <br> 
 
-<li> I enjoy playing videogames, specially multiplayer games to play alongside or against my friends. 🎮</li> 
+<li> I enjoy playing videogames, specially multiplayer games to play alongside or against my friends. 🎮🕹️ </li> 
 
 <br> 
 
-<li> I also enjoy a lot exercising, I used to go to the gym on a daily basis, but since covid-19 I started training calisthenics at home. 💪 </li> 
+<li> I also enjoy exercising, I used to go to the gym on a daily basis, but since covid-19 I started training calisthenics at home. 💪🏋️ </li> 
 
 </ul>
 
